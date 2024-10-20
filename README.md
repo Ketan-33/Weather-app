@@ -1,8 +1,5 @@
 # Weather App 🌧️🌧️💙💙
 
-![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/dev-aniketj/Weather-App?color=00ADB5&style=for-the-badge)
-
 ## Preview
 
 <img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/gif1.gif" width="200"/>
@@ -33,25 +30,3 @@ public final static String API_KEY = "81a26c8f0de407b94623e9f43e825679";
 
 <br/>
 
-#### API key calling from this website : **https://openweathermap.org/api/one-call-3**
-
-#### The One Call API provides the following weather data for any geographical coordinates:
-
-- Current weather
-- Minute forecast for 1 hour
-- Hourly forecast for 48 hours
-- Daily forecast for 8 days
-- National weather alerts
-- Historical weather data for 40+ years back (since January 1, 1979)
-
-##### Note :
-
-> Single API key on have
-
-## Contributing
-
-Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
-
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
